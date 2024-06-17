@@ -1,0 +1,1 @@
+def temp(t:Double)=c*1.8000*32.00
